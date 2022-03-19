@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "191307093_judy_ndotoni_VizeProjesi/1.0.0": {
+        "runtime": {
+          "191307093_judy_ndotoni_VizeProjesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "191307093_judy_ndotoni_VizeProjesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
